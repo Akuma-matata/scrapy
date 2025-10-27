@@ -4,6 +4,7 @@ GMrepo Data Downloader
 Downloads species abundance data for runs with QCStatus=1 from GMrepo database.
 
 Features:
+- Read run IDs from TSV file or scrape from API
 - Parallel downloads with rate limiting
 - Progress tracking
 - Resume capability
@@ -73,25 +74,56 @@ class GMrepoDownloader:
         )
         self.logger = logging.getLogger(__name__)
     
+    def get_run_ids_from_tsv(self, tsv_file):
+        """
+        Read runIDs with QCStatus=1 from TSV file.
+
+        Args:
+            tsv_file: Path to the TSV file containing run information
+
+        Returns:
+            List of runIDs with QCStatus=1
+        """
+        self.logger.info(f"Reading runIDs from TSV file: {tsv_file}")
+
+        try:
+            # Read TSV file
+            df = pd.read_csv(tsv_file, sep='\t')
+
+            self.logger.info(f"Total runs in TSV: {len(df)}")
+
+            # Filter for QCstatus == 1 or 1.0
+            df_filtered = df[df['QCstatus'] == 1.0]
+
+            # Extract run_ids
+            run_ids = df_filtered['run_id'].tolist()
+
+            self.logger.info(f"Found {len(run_ids)} runIDs with QCStatus=1")
+            return run_ids
+
+        except Exception as e:
+            self.logger.error(f"Error reading TSV file: {str(e)}")
+            raise
+
     def get_all_run_ids(self, mesh_id="D006262", total_pages=4959):
         """
         Fetch all runIDs with QCStatus=1 from the API.
-        
+
         Args:
             mesh_id: Phenotype mesh ID
             total_pages: Total number of pages to fetch
-            
+
         Returns:
             List of runIDs with QCStatus=1
         """
         self.logger.info(f"Fetching runIDs from {total_pages} pages...")
         run_ids = []
         limit = 10
-        
+
         with tqdm(total=total_pages, desc="Fetching runIDs", unit="page") as pbar:
             for page in range(total_pages):
                 skip = page * limit
-                
+
                 try:
                     response = self.session.post(
                         f"{self.base_url}/api/getAssociatedRunsByPhenotypeMeshIDLimit/",
@@ -103,21 +135,21 @@ class GMrepoDownloader:
                         timeout=30
                     )
                     response.raise_for_status()
-                    
+
                     data = response.json()
-                    
+
                     # Filter for QCStatus=1
                     for run in data:
                         if run.get("QCStatus") == 1:
                             run_ids.append(run["run_id"])
-                    
+
                     pbar.update(1)
                     time.sleep(self.delay)  # Be polite to the server
-                    
+
                 except Exception as e:
                     self.logger.error(f"Error fetching page {page}: {str(e)}")
                     continue
-        
+
         self.logger.info(f"Found {len(run_ids)} runIDs with QCStatus=1")
         return run_ids
     
@@ -314,17 +346,20 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Download to default directory (Healthy_Data)
+  # Download using TSV file (recommended - skips scraping)
+  python gmrepo_downloader.py --tsv-file all_runs_associated_with_D006262.tsv
+
+  # Download to default directory (Healthy_Data) by scraping API
   python gmrepo_downloader.py
-  
-  # Specify custom output directory
-  python gmrepo_downloader.py --output-dir /path/to/my/data
-  
+
+  # Specify custom output directory with TSV file
+  python gmrepo_downloader.py --tsv-file all_runs_associated_with_D006262.tsv --output-dir /path/to/my/data
+
   # Adjust parallel workers and delay
-  python gmrepo_downloader.py --workers 10 --delay 0.3
-  
+  python gmrepo_downloader.py --tsv-file all_runs_associated_with_D006262.tsv --workers 10 --delay 0.3
+
   # Resume from interruption (automatically detects previous progress)
-  python gmrepo_downloader.py
+  python gmrepo_downloader.py --tsv-file all_runs_associated_with_D006262.tsv
         """
     )
     
@@ -362,33 +397,48 @@ Examples:
         default=4959,
         help='Total pages to fetch (default: 4959)'
     )
-    
+
+    parser.add_argument(
+        '--tsv-file',
+        type=str,
+        default=None,
+        help='TSV file containing run IDs (if provided, will use this instead of scraping)'
+    )
+
     args = parser.parse_args()
-    
+
     print("="*60)
     print("GMrepo Data Downloader")
     print("="*60)
     print(f"Output directory: {args.output_dir}")
     print(f"Parallel workers: {args.workers}")
     print(f"Request delay: {args.delay}s")
-    print(f"Mesh ID: {args.mesh_id}")
+    if args.tsv_file:
+        print(f"TSV file: {args.tsv_file}")
+    else:
+        print(f"Mesh ID: {args.mesh_id}")
     print("="*60)
     print()
-    
+
     # Initialize downloader
     downloader = GMrepoDownloader(
         output_dir=args.output_dir,
         max_workers=args.workers,
         delay=args.delay
     )
-    
+
     # Get all run IDs with QCStatus=1
-    run_ids = downloader.get_all_run_ids(mesh_id=args.mesh_id, total_pages=args.pages)
-    
+    if args.tsv_file:
+        # Read run IDs from TSV file
+        run_ids = downloader.get_run_ids_from_tsv(args.tsv_file)
+    else:
+        # Scrape run IDs from API
+        run_ids = downloader.get_all_run_ids(mesh_id=args.mesh_id, total_pages=args.pages)
+
     if not run_ids:
         print("No runIDs found with QCStatus=1")
         return
-    
+
     # Download all data
     downloader.download_all(run_ids)
     
