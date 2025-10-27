@@ -1,0 +1,97 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,4.23848,species,unclassified
+562,6.12859,species,Escherichia coli
+817,0.0136,species,Bacteroides fragilis
+818,0.14202,species,Bacteroides thetaiotaomicron
+820,0.09679,species,Bacteroides uniformis
+1302,0.09169,species,Streptococcus gordonii
+1303,0.04383,species,Streptococcus oralis
+1304,0.67257,species,Streptococcus salivarius
+1305,0.00672,species,Streptococcus sanguinis
+1308,0.91923,species,Streptococcus thermophilus
+1318,0.15569,species,Streptococcus parasanguinis
+1322,0.12539,species,Blautia hansenii
+1328,0.00161,species,Streptococcus anginosus
+1379,0.00648,species,Gemella haemolysans
+1382,0.02349,species,Lancefieldella parvula
+1383,0.00056,species,Lancefieldella rimae
+1512,0.92607,species,[Clostridium] symbiosum
+1522,1.82051,species,[Clostridium] innocuum
+1531,2.07153,species,Enterocloster clostridioformis
+1547,0.98893,species,Thomasclavelia ramosa
+1655,0.0002,species,Actinomyces naeslundii
+1685,3.94889,species,Bifidobacterium breve
+1689,0.16106,species,Bifidobacterium dentium
+4932,0.02713,species,Saccharomyces cerevisiae
+28037,0.12195,species,Streptococcus mitis
+29347,0.33126,species,[Clostridium] scindens
+29361,1.56426,species,[Clostridium] nexile
+29391,0.00082,species,Gemella morbillorum
+33033,0.02376,species,Parvimonas micra
+33035,0.37792,species,Blautia producta
+33038,8.95394,species,Mediterraneibacter gnavus
+33039,10.06469,species,[Ruminococcus] torques
+33945,0.03687,species,Enterococcus avium
+35517,0.00413,species,[Eubacterium] brachy
+39777,0.00152,species,Veillonella atypica
+43675,0.1171,species,Rothia mucilaginosa
+45634,0.01255,species,Streptococcus cristatus
+46124,0.01284,species,Granulicatella adiacens
+46503,0.69657,species,Parabacteroides merdae
+46506,0.80759,species,Bacteroides stercoris
+47770,1.57701,species,Lactobacillus crispatus
+52773,0.00023,species,Schaalia meyeri
+55565,0.18425,species,Actinomyces graevenitzii
+61592,0.03361,species,Corynebacterium durum
+68892,0.00732,species,Streptococcus infantis
+76860,0.00307,species,Streptococcus constellatus
+84109,0.00078,species,Slackia exigua
+84112,0.43697,species,Eggerthella lenta
+84135,0.08597,species,Gemella sanguinis
+84163,0.00897,species,Cryptobacterium curtum
+100884,0.04757,species,Coprobacillus cateniformis
+103892,11.41197,species,Veillonella ratti
+105841,1.48649,species,Anaerostipes caccae
+113107,0.13807,species,Streptococcus australis
+114527,0.04318,species,Mogibacterium diversum
+143393,0.04322,species,[Eubacterium] sulci
+154046,0.06285,species,Hungatella hathewayi
+160404,0.04792,species,Anaerotignum lactatifermentans
+172042,0.00069,species,Rothia aeria
+208479,0.21406,species,Enterocloster bolteae
+216816,16.41368,species,Bifidobacterium longum
+261299,0.15602,species,Intestinibacter bartlettii
+272548,0.00122,species,Actinomyces dentalis
+292800,0.12244,species,Flavonifractor plautii
+341220,0.0174,species,Lactonifactor longoviformis
+357276,1.62775,species,Phocaeicola dorei
+358742,0.15115,species,Enterocloster aldenensis
+358743,0.06246,species,Enterocloster citroniae
+460384,0.01067,species,Enterocloster lavalensis
+544580,0.01551,species,Actinomyces oris
+556261,0.09771,species,Clostridium sp. D5
+671231,0.0211,species,TM7 phylum sp. oral taxon 348
+712124,0.00748,species,Actinomyces sp. oral taxon 448
+712888,0.0013,species,Actinobaculum sp. oral taxon 183
+713054,0.0585,species,TM7 phylum sp. oral taxon 352
+742723,0.35173,species,Lachnospiraceae bacterium 2_1_46FAA
+936548,0.16304,species,Actinomyces sp. ICM47
+1118058,0.01662,species,Actinomyces sp. ph3
+1335613,0.01076,species,Gordonibacter urolithinfaciens
+1547448,0.0209,species,Arachnia rubra
+1550024,0.96835,species,Ruthenibacterium lactatiformans
+1653434,3.12949,species,Sellimonas intestinalis
+1697793,0.38516,species,Clostridia bacterium UC5.1-1E11
+1697794,0.05247,species,Clostridia bacterium UC5.1-1D1
+1737424,1.7052,species,Blautia massiliensis (ex Durand et al. 2017)
+1776392,0.68318,species,Massilimicrobiota timonensis
+1780380,0.43273,species,Eubacteriaceae bacterium CHKCI004
+1796615,1.49047,species,Blautia caecimuris
+1852361,0.10437,species,Actinomyces bouchesdurhonensis
+1965636,0.30411,species,Blautia sp. An46
+1986206,0.01276,species,Candidatus Nanosynsacchari sp. TM7_ANC_38.39_G1_1
+2108523,0.14104,species,Lawsonibacter asaccharolyticus
+2292075,0.00645,species,Sutterella sp. AM11-39
+2364792,0.04132,species,Intestinibacillus sp. Marseille-P6563
+2735723,0.01839,species,Turicibacter bilis
+2885357,9.62402,species,Hominenteromicrobium mulieris

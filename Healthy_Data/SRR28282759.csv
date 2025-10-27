@@ -1,0 +1,99 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,1.71544,species,unclassified
+729,0.00939,species,Haemophilus parainfluenzae
+818,0.28532,species,Bacteroides thetaiotaomicron
+820,5.72739,species,Bacteroides uniformis
+821,16.02096,species,Phocaeicola vulgatus
+823,1.669,species,Parabacteroides distasonis
+853,12.5006,species,Faecalibacterium prausnitzii
+861,0.17174,species,Fusobacterium ulcerans
+901,0.22132,species,Desulfovibrio piger
+1304,0.49557,species,Streptococcus salivarius
+1318,0.0775,species,Streptococcus parasanguinis
+1322,0.30075,species,Blautia hansenii
+1512,0.12052,species,[Clostridium] symbiosum
+1522,0.14196,species,[Clostridium] innocuum
+1531,0.3859,species,Enterocloster clostridioformis
+1547,0.3333,species,Thomasclavelia ramosa
+28111,2.19666,species,Bacteroides eggerthii
+28116,1.57888,species,Bacteroides ovatus
+28117,0.01942,species,Alistipes putredinis
+28118,0.80902,species,Odoribacter splanchnicus
+28128,0.00128,species,Prevotella corporis
+29347,0.02806,species,[Clostridium] scindens
+29361,2.44064,species,[Clostridium] nexile
+29466,0.037,species,Veillonella parvula
+33025,1.16093,species,Phascolarctobacterium faecium
+33035,0.20722,species,Blautia producta
+33038,3.66208,species,Mediterraneibacter gnavus
+35833,0.28051,species,Bilophila wadsworthia
+39777,0.00756,species,Veillonella atypica
+39778,0.10969,species,Veillonella dispar
+43675,0.01474,species,Rothia mucilaginosa
+46503,0.85379,species,Parabacteroides merdae
+47678,0.81573,species,Bacteroides caccae
+53442,0.19808,species,Eubacterium callanderi
+103892,0.5271,species,Veillonella ratti
+105841,0.08728,species,Anaerostipes caccae
+113107,0.00243,species,Streptococcus australis
+154046,0.04842,species,Hungatella hathewayi
+204516,3.61838,species,Phocaeicola massiliensis
+208479,0.26052,species,Enterocloster bolteae
+214856,0.03257,species,Alistipes finegoldii
+218538,0.00689,species,Dialister invisus
+239935,0.01629,species,Akkermansia muciniphila
+242230,0.26075,species,Eggerthella sinensis
+261299,0.11966,species,Intestinibacter bartlettii
+291644,0.21417,species,Bacteroides salyersiae
+292800,0.65912,species,Flavonifractor plautii
+301301,0.96098,species,Roseburia hominis
+315405,1.37064,species,Streptococcus gallolyticus
+328813,0.90796,species,Alistipes onderdonkii
+328814,0.30288,species,Alistipes shahii
+338188,2.39283,species,Bacteroides finegoldii
+342942,0.126,species,Mediterraneibacter glycyrrhizinilyticus
+357276,0.73933,species,Phocaeicola dorei
+358743,0.05978,species,Enterocloster citroniae
+371601,0.07091,species,Bacteroides xylanisolvens
+418240,5.7881,species,Blautia wexlerae
+423477,0.00268,species,Veillonella rogosae
+437897,7.0277,species,Megamonas funiformis
+437898,0.21983,species,Sutterella parvirubra
+446660,0.08652,species,Adlercreutzia equolifaciens
+454155,6.68843,species,Paraprevotella xylaniphila
+460384,0.09815,species,Enterocloster lavalensis
+471189,0.09248,species,Gordonibacter pamelaeae
+474960,0.19935,species,Hydrogenoanaerobacterium saccharovorans
+487174,0.7738,species,Barnesiella intestinihominis
+487175,0.02684,species,Parasutterella excrementihominis
+544645,0.22042,species,Butyricimonas virosa
+556261,0.00951,species,Clostridium sp. D5
+626929,0.19617,species,Bacteroides clarus
+626932,0.00068,species,Alistipes indistinctus
+649756,3.10242,species,Anaerostipes hadrus
+1034346,0.02834,species,Dielma fastidiosa
+1099853,0.34676,species,Coprobacter fastidiosus
+1470347,0.03738,species,Alistipes ihumii
+1550024,0.09018,species,Ruthenibacterium lactatiformans
+1628085,0.58105,species,Agathobaculum butyriciproducens
+1650663,0.28253,species,Allofournierella massiliensis
+1653435,0.27879,species,Merdimonas faecis
+1697794,0.02472,species,Clostridia bacterium UC5.1-1D1
+1720194,0.41039,species,Clostridium sp. AT4
+1796615,0.85371,species,Blautia caecimuris
+1898203,0.19018,species,Lachnospiraceae bacterium
+1898207,0.15134,species,Clostridiales bacterium
+1912855,0.52553,species,Faecalimonas umbilicata
+1917870,0.1009,species,Enterocloster hominis (ex Hitch et al. 2024)
+1965639,0.08885,species,Gemmiger sp. An50
+2292205,1.17061,species,Clostridium sp. AF20-17LB
+2292363,0.00744,species,Parabacteroides sp. TM07-1AC
+2293028,0.11721,species,Clostridium sp. AM29-11AC
+2358141,0.13536,species,Anaerotignum faecicola
+2494234,1.09926,species,Sutterella megalosphaeroides
+2585119,0.04418,species,Alistipes dispar
+2763037,0.10493,species,Clostridium lentum
+2763644,0.03795,species,Zhenpiania hominis
+2830656,0.21002,species,Eubacteriaceae bacterium Marseille-Q4139
+2841037,0.02461,species,Claveliimonas bilis
+2981769,1.14188,species,Waltera acetigignens

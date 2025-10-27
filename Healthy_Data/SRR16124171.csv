@@ -1,0 +1,125 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,6.69577,species,unclassified
+562,0.00238,species,Escherichia coli
+818,0.39015,species,Bacteroides thetaiotaomicron
+820,4.00489,species,Bacteroides uniformis
+821,5.02823,species,Phocaeicola vulgatus
+823,0.56844,species,Parabacteroides distasonis
+853,3.84445,species,Faecalibacterium prausnitzii
+1308,0.18625,species,Streptococcus thermophilus
+1502,0.0032,species,Clostridium perfringens
+1735,0.04415,species,Holdemanella biformis
+28052,1.16988,species,Lachnospira pectinoschiza
+28116,0.71094,species,Bacteroides ovatus
+28117,5.67062,species,Alistipes putredinis
+28118,0.48301,species,Odoribacter splanchnicus
+33039,0.11418,species,[Ruminococcus] torques
+33043,0.2609,species,Coprococcus eutactus
+35833,0.52059,species,Bilophila wadsworthia
+39485,0.99,species,Lachnospira eligens
+39486,0.00491,species,Dorea formicigenerans
+39490,0.00087,species,Eubacterium ramulus
+39491,0.18804,species,Agathobacter rectalis
+39496,2.46157,species,Eubacterium ventriosum
+40518,0.67767,species,Ruminococcus bromii
+40519,0.46822,species,Ruminococcus callidus
+40520,0.00748,species,Blautia obeum
+46228,0.29543,species,[Ruminococcus] lactaris
+46503,0.59591,species,Parabacteroides merdae
+46506,0.78693,species,Bacteroides stercoris
+47678,0.13798,species,Bacteroides caccae
+74426,0.0027,species,Collinsella aerofaciens
+88431,0.01796,species,Dorea longicatena
+116085,0.04641,species,Coprococcus catus
+165179,42.39731,species,Segatella copri
+208479,0.00627,species,Enterocloster bolteae
+209880,0.01361,species,Allisonella histaminiformans
+246787,0.0705,species,Bacteroides cellulosilyticus
+253257,0.24524,species,Lacrimispora amygdalina
+290055,0.00355,species,Faecalicatena fissicatena
+291644,0.38883,species,Bacteroides salyersiae
+291645,0.00886,species,Bacteroides nordii
+292800,0.04515,species,Flavonifractor plautii
+301301,0.13179,species,Roseburia hominis
+310297,3.58371,species,Phocaeicola plebeius
+328813,0.03197,species,Alistipes onderdonkii
+328814,0.73528,species,Alistipes shahii
+333367,0.00162,species,Enterocloster asparagiformis
+338188,1.04505,species,Bacteroides finegoldii
+351091,0.70921,species,Oscillibacter valericigenes
+357276,0.03576,species,Phocaeicola dorei
+358743,0.00822,species,Enterocloster citroniae
+360807,0.09073,species,Roseburia inulinivorans
+363265,0.00166,species,Leyella stercorea
+410072,0.02732,species,Coprococcus comes
+418240,0.07705,species,Blautia wexlerae
+454154,1.59093,species,Paraprevotella clara
+474960,0.04065,species,Hydrogenoanaerobacterium saccharovorans
+487175,0.15501,species,Parasutterella excrementihominis
+544645,0.0698,species,Butyricimonas virosa
+592978,0.06384,species,Mediterraneibacter faecis
+626929,0.08451,species,Bacteroides clarus
+626932,0.01877,species,Alistipes indistinctus
+649756,0.05555,species,Anaerostipes hadrus
+745368,0.26301,species,Gemmiger formicilis
+871665,0.01095,species,Blautia faecis
+1099853,0.48382,species,Coprobacter fastidiosus
+1150298,0.02851,species,Fusicatenibacter saccharivorans
+1288121,0.02196,species,Alistipes senegalensis
+1297617,0.00089,species,Intestinimonas butyriciproducens
+1468449,0.01413,species,Holdemania massiliensis
+1470347,0.00333,species,Alistipes ihumii
+1472417,0.02894,species,Butyricimonas paravirosa
+1519439,1.48717,species,Oscillibacter sp. ER4
+1628085,0.15697,species,Agathobaculum butyriciproducens
+1715004,0.00239,species,Clostridiales bacterium KLE1615
+1720194,0.0038,species,Clostridium sp. AT4
+1720200,0.00043,species,Anaerotruncus rubiinfantis
+1841867,0.01947,species,Merdimmobilis hominis
+1898204,0.0248,species,Clostridiaceae bacterium
+1898207,0.01265,species,Clostridiales bacterium
+1917870,0.00084,species,Enterocloster hominis (ex Hitch et al. 2024)
+1982626,0.02304,species,Faecalibacillus intestinalis
+1987501,0.00083,species,Massiliimalia timonensis
+2049045,0.28981,species,Eubacteriaceae bacterium
+2093857,0.01973,species,Dysosmobacter welbionis
+2108523,0.01512,species,Lawsonibacter asaccharolyticus
+2126740,0.18608,species,Clostridium fessum
+2211183,0.03158,species,Evtepia gabavorous
+2292006,0.02128,species,Clostridium sp. AF32-12BH
+2292075,1.17372,species,Sutterella sp. AM11-39
+2292182,0.11388,species,Clostridiaceae bacterium AF18-31LB
+2292190,0.0078,species,Alistipes sp. AF17-16
+2292201,0.04579,species,Clostridium sp. AF12-28
+2292205,0.14471,species,Clostridium sp. AF20-17LB
+2292271,0.19411,species,Lachnospiraceae bacterium AM48-27BH
+2292304,0.13382,species,Clostridium sp. AM33-3
+2292305,0.13593,species,Clostridium sp. AM42-4
+2292363,0.09978,species,Parabacteroides sp. TM07-1AC
+2293024,0.16139,species,Clostridium sp. AM22-11AC
+2293126,0.06301,species,Roseburia sp. AF02-12
+2293138,0.08534,species,Roseburia sp. AM59-24XD
+2316025,0.00039,species,Mediterraneibacter butyricigenes
+2358141,0.76818,species,Anaerotignum faecicola
+2364792,0.00073,species,Intestinibacillus sp. Marseille-P6563
+2485925,0.02606,species,Oscillospiraceae bacterium
+2500537,0.07743,species,Candidatus Cibiobacter qucibialis
+2585118,0.00576,species,Alistipes communis
+2585119,0.04701,species,Alistipes dispar
+2714355,0.29812,species,Vescimonas coprocola
+2763017,0.03039,species,Anaerosacchariphilus hominis
+2763051,0.10638,species,Lachnospira hominis (ex Liu et al. 2021)
+2763663,0.03986,species,Enterocloster hominis (ex Liu et al. 2021)
+2763670,1.3863,species,Wujia chipingensis
+2763672,2.59484,species,Simiaoa sunii
+2779352,0.0126,species,Pseudoflavonifractor gallinarum
+2830655,0.01403,species,Oscillospiraceae bacterium Marseille-Q3528
+2830657,0.01001,species,Clostridiaceae bacterium Marseille-Q4143
+2830658,0.00332,species,Clostridiaceae bacterium Marseille-Q4145
+2841526,0.00845,species,Oscillibacter sp. MSJ-31
+2881266,0.01077,species,Faecalibacterium butyricigenerans
+2883268,0.04211,species,Colidextribacter sp. 210702-DFI.3.9
+2883295,0.03835,species,bacterium 210917-DFI.7.65
+2885350,0.03481,species,Gallintestinimicrobium propionicum
+2885357,0.00361,species,Hominenteromicrobium mulieris
+2981769,0.81184,species,Waltera acetigignens

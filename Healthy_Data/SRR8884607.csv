@@ -1,0 +1,126 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,45.52715,species,unclassified
+818,0.0958,species,Bacteroides thetaiotaomicron
+820,1.18816,species,Bacteroides uniformis
+821,0.3895,species,Phocaeicola vulgatus
+823,0.78821,species,Parabacteroides distasonis
+853,5.53829,species,Faecalibacterium prausnitzii
+1260,0.03059,species,Finegoldia magna
+1308,0.0396,species,Streptococcus thermophilus
+1535,0.02007,species,[Clostridium] leptum
+1680,0.38104,species,Bifidobacterium adolescentis
+2173,0.4237,species,Methanobrevibacter smithii
+28052,0.8902,species,Lachnospira pectinoschiza
+28111,0.53427,species,Bacteroides eggerthii
+28117,2.22749,species,Alistipes putredinis
+28118,0.13997,species,Odoribacter splanchnicus
+28128,0.05294,species,Prevotella corporis
+33038,0.01198,species,Mediterraneibacter gnavus
+33039,0.04451,species,[Ruminococcus] torques
+33043,3.03786,species,Coprococcus eutactus
+35833,0.1652,species,Bilophila wadsworthia
+39485,0.18987,species,Lachnospira eligens
+39486,0.17465,species,Dorea formicigenerans
+39490,0.72769,species,Eubacterium ramulus
+39491,0.82152,species,Agathobacter rectalis
+39496,0.16675,species,Eubacterium ventriosum
+40518,2.5032,species,Ruminococcus bromii
+40520,0.03777,species,Blautia obeum
+40545,1.10947,species,Sutterella wadsworthensis
+44742,0.00164,species,Desulfovibrio fairfieldensis
+46228,0.75584,species,[Ruminococcus] lactaris
+46503,0.37453,species,Parabacteroides merdae
+47678,0.17249,species,Bacteroides caccae
+61171,0.01215,species,Holdemania filiformis
+74426,0.22304,species,Collinsella aerofaciens
+88431,3.26144,species,Dorea longicatena
+89014,0.16984,species,Blautia luti
+105843,0.06221,species,Anaerobutyricum soehngenii
+116085,0.30512,species,Coprococcus catus
+166486,0.16246,species,Roseburia intestinalis
+187327,0.044,species,Acidaminococcus intestini
+204516,0.33942,species,Phocaeicola massiliensis
+216816,1.57353,species,Bifidobacterium longum
+239935,0.1867,species,Akkermansia muciniphila
+253257,0.00451,species,Lacrimispora amygdalina
+261299,0.05406,species,Intestinibacter bartlettii
+290055,0.03957,species,Faecalicatena fissicatena
+291644,0.20782,species,Bacteroides salyersiae
+301301,0.16716,species,Roseburia hominis
+301302,0.69787,species,Roseburia faecis
+328813,0.0535,species,Alistipes onderdonkii
+328814,0.209,species,Alistipes shahii
+329854,0.19912,species,Bacteroides intestinalis
+338188,0.23297,species,Bacteroides finegoldii
+351091,0.13649,species,Oscillibacter valericigenes
+357276,0.77786,species,Phocaeicola dorei
+360807,0.30052,species,Roseburia inulinivorans
+410072,1.2284,species,Coprococcus comes
+418240,0.51293,species,Blautia wexlerae
+487174,0.1379,species,Barnesiella intestinihominis
+487175,0.06742,species,Parasutterella excrementihominis
+536633,0.20395,species,Blautia glucerasea
+592978,0.61679,species,Mediterraneibacter faecis
+626932,0.06281,species,Alistipes indistinctus
+649756,0.5682,species,Anaerostipes hadrus
+745368,0.01986,species,Gemmiger formicilis
+871664,0.68929,species,Blautia stercoris
+871665,0.27183,species,Blautia faecis
+1150298,0.29991,species,Fusicatenibacter saccharivorans
+1288121,0.03387,species,Alistipes senegalensis
+1470347,0.19562,species,Alistipes ihumii
+1472416,0.04352,species,Butyricimonas faecihominis
+1473216,0.07481,species,Senegalimassilia anaerobia
+1550024,0.03926,species,Ruthenibacterium lactatiformans
+1628085,0.01183,species,Agathobaculum butyriciproducens
+1715004,0.35323,species,Clostridiales bacterium KLE1615
+1720294,0.01991,species,Eisenbergiella massiliensis
+1723384,0.04109,species,Fenollaria timonensis
+1737424,0.48613,species,Blautia massiliensis (ex Durand et al. 2017)
+1776391,0.0079,species,Romboutsia timonensis
+1870991,0.00343,species,Massilioclostridium coli
+1898203,0.14729,species,Lachnospiraceae bacterium
+1898204,0.11262,species,Clostridiaceae bacterium
+1898207,0.24363,species,Clostridiales bacterium
+1982626,0.00552,species,Faecalibacillus intestinalis
+2049045,0.02536,species,Eubacteriaceae bacterium
+2093857,0.1751,species,Dysosmobacter welbionis
+2108523,0.39469,species,Lawsonibacter asaccharolyticus
+2126740,0.16981,species,Clostridium fessum
+2137880,0.59742,species,Candidatus Gastranaerophilales bacterium
+2211183,0.3879,species,Evtepia gabavorous
+2292041,0.20822,species,Dorea sp. AF36-15AT
+2292182,0.15444,species,Clostridiaceae bacterium AF18-31LB
+2292201,0.04814,species,Clostridium sp. AF12-28
+2292205,0.10622,species,Clostridium sp. AF20-17LB
+2292206,0.0455,species,Clostridium sp. AF27-2AA
+2292245,0.00631,species,Ruminococcus sp. AF13-28
+2293024,0.28627,species,Clostridium sp. AM22-11AC
+2293035,0.15269,species,Clostridium sp. AM49-4BH
+2293126,1.31077,species,Roseburia sp. AF02-12
+2358141,0.03889,species,Anaerotignum faecicola
+2485925,0.31388,species,Oscillospiraceae bacterium
+2500537,0.00266,species,Candidatus Cibiobacter qucibialis
+2508949,0.01519,species,Candidatus Borkfalkia ceftriaxoniphila
+2509240,1.61483,species,Blautia faecicola
+2585118,1.74617,species,Alistipes communis
+2585119,0.10106,species,Alistipes dispar
+2592640,4.54801,species,Blautia sp. MCC283
+2606640,0.15665,species,Victivallis lenta
+2763051,0.09128,species,Lachnospira hominis (ex Liu et al. 2021)
+2763061,0.01045,species,Roseburia lenta
+2763662,0.10614,species,Yeguia hominis
+2764712,0.01476,species,Lentihominibacter faecis
+2830655,0.02606,species,Oscillospiraceae bacterium Marseille-Q3528
+2830657,0.10427,species,Clostridiaceae bacterium Marseille-Q4143
+2830658,0.00348,species,Clostridiaceae bacterium Marseille-Q4145
+2830659,0.04451,species,Clostridiaceae bacterium Marseille-Q4149
+2841526,0.02667,species,Oscillibacter sp. MSJ-31
+2881266,0.30159,species,Faecalibacterium butyricigenerans
+2881276,0.3073,species,Fusicatenibacter faecihominis
+2883295,0.00497,species,bacterium 210917-DFI.7.65
+2885348,0.11453,species,Hominifimenecus microfluidus
+2885350,0.11783,species,Gallintestinimicrobium propionicum
+2929491,0.20246,species,Faecalibacterium wellingii
+2939420,1.0565,species,Phascolarctobacterium sp. ET69
+2981769,0.37972,species,Waltera acetigignens

@@ -1,0 +1,125 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,11.64212,species,unclassified
+818,0.08101,species,Bacteroides thetaiotaomicron
+820,0.04058,species,Bacteroides uniformis
+821,1.06156,species,Phocaeicola vulgatus
+823,0.21884,species,Parabacteroides distasonis
+853,1.44094,species,Faecalibacterium prausnitzii
+1304,0.01589,species,Streptococcus salivarius
+1308,0.0323,species,Streptococcus thermophilus
+1680,0.00319,species,Bifidobacterium adolescentis
+1735,0.22377,species,Holdemanella biformis
+28052,0.66183,species,Lachnospira pectinoschiza
+28111,0.08932,species,Bacteroides eggerthii
+28116,0.12407,species,Bacteroides ovatus
+28117,1.05744,species,Alistipes putredinis
+28118,0.21592,species,Odoribacter splanchnicus
+33038,0.00452,species,Mediterraneibacter gnavus
+33039,0.00355,species,[Ruminococcus] torques
+33043,2.78482,species,Coprococcus eutactus
+39485,3.304,species,Lachnospira eligens
+39486,0.05404,species,Dorea formicigenerans
+39488,0.05608,species,Anaerobutyricum hallii
+39490,0.00229,species,Eubacterium ramulus
+39491,0.71926,species,Agathobacter rectalis
+39492,0.04919,species,[Eubacterium] siraeum
+39496,0.01877,species,Eubacterium ventriosum
+40518,1.47801,species,Ruminococcus bromii
+40519,0.24174,species,Ruminococcus callidus
+40520,0.02406,species,Blautia obeum
+46228,0.22135,species,[Ruminococcus] lactaris
+46506,0.04676,species,Bacteroides stercoris
+52227,2.55656,species,Prevotella dentalis
+88431,0.33333,species,Dorea longicatena
+89014,0.00373,species,Blautia luti
+116085,0.01731,species,Coprococcus catus
+165179,56.88575,species,Segatella copri
+166486,0.23477,species,Roseburia intestinalis
+204516,1.51037,species,Phocaeicola massiliensis
+209880,0.01153,species,Allisonella histaminiformans
+214856,0.03336,species,Alistipes finegoldii
+216816,0.00252,species,Bifidobacterium longum
+239935,0.11749,species,Akkermansia muciniphila
+246787,0.09503,species,Bacteroides cellulosilyticus
+253257,0.12582,species,Lacrimispora amygdalina
+290055,0.05438,species,Faecalicatena fissicatena
+291644,0.00082,species,Bacteroides salyersiae
+301301,0.03949,species,Roseburia hominis
+301302,0.12103,species,Roseburia faecis
+310297,0.4498,species,Phocaeicola plebeius
+328813,0.01591,species,Alistipes onderdonkii
+328814,0.13379,species,Alistipes shahii
+338188,0.2384,species,Bacteroides finegoldii
+351091,0.18296,species,Oscillibacter valericigenes
+357276,0.44966,species,Phocaeicola dorei
+360807,0.60524,species,Roseburia inulinivorans
+371601,0.06165,species,Bacteroides xylanisolvens
+410072,0.10439,species,Coprococcus comes
+418240,0.11088,species,Blautia wexlerae
+446660,0.00451,species,Adlercreutzia equolifaciens
+474960,0.04901,species,Hydrogenoanaerobacterium saccharovorans
+487174,0.22188,species,Barnesiella intestinihominis
+487175,0.20498,species,Parasutterella excrementihominis
+536633,0.02714,species,Blautia glucerasea
+544645,0.01632,species,Butyricimonas virosa
+592978,0.06961,species,Mediterraneibacter faecis
+626940,2.4697,species,Phascolarctobacterium succinatutens
+649756,0.02252,species,Anaerostipes hadrus
+745368,0.21978,species,Gemmiger formicilis
+871664,0.02801,species,Blautia stercoris
+871665,0.0169,species,Blautia faecis
+1150298,0.09419,species,Fusicatenibacter saccharivorans
+1160721,0.09004,species,Ruminococcus bicirculans (ex Wegman et al. 2014)
+1470347,0.06812,species,Alistipes ihumii
+1472416,0.02608,species,Butyricimonas faecihominis
+1501392,0.00752,species,Coprobacter secundus
+1519439,1.03297,species,Oscillibacter sp. ER4
+1550024,0.00407,species,Ruthenibacterium lactatiformans
+1628085,0.35498,species,Agathobaculum butyriciproducens
+1715004,0.02304,species,Clostridiales bacterium KLE1615
+1737424,0.01715,species,Blautia massiliensis (ex Durand et al. 2017)
+1870991,0.00022,species,Massilioclostridium coli
+1898204,0.5129,species,Clostridiaceae bacterium
+1898207,0.0349,species,Clostridiales bacterium
+1982626,0.13124,species,Faecalibacillus intestinalis
+1982628,0.06241,species,Faecalibacillus faecis
+2093856,0.09106,species,Butyricimonas faecalis
+2093857,0.04981,species,Dysosmobacter welbionis
+2108523,0.03822,species,Lawsonibacter asaccharolyticus
+2126740,0.1822,species,Clostridium fessum
+2292006,0.002,species,Clostridium sp. AF32-12BH
+2292069,0.00738,species,Ruminococcus sp. AF41-9
+2292182,0.05247,species,Clostridiaceae bacterium AF18-31LB
+2292201,0.01804,species,Clostridium sp. AF12-28
+2292205,0.05266,species,Clostridium sp. AF20-17LB
+2292206,0.07224,species,Clostridium sp. AF27-2AA
+2292271,0.20947,species,Lachnospiraceae bacterium AM48-27BH
+2292272,0.01018,species,Lachnospiraceae bacterium OM04-12BH
+2292304,0.06742,species,Clostridium sp. AM33-3
+2293024,0.30306,species,Clostridium sp. AM22-11AC
+2293126,0.05564,species,Roseburia sp. AF02-12
+2316025,0.00166,species,Mediterraneibacter butyricigenes
+2358141,0.0688,species,Anaerotignum faecicola
+2485925,0.0309,species,Oscillospiraceae bacterium
+2500537,0.07607,species,Candidatus Cibiobacter qucibialis
+2592640,0.03215,species,Blautia sp. MCC283
+2606633,0.00828,species,Oliverpabstia intestinalis
+2714353,0.09872,species,Vescimonas fastidiosa
+2714355,0.07179,species,Vescimonas coprocola
+2763051,0.14887,species,Lachnospira hominis (ex Liu et al. 2021)
+2763064,0.00709,species,Roseburia zhanii
+2763672,0.71267,species,Simiaoa sunii
+2830655,0.002,species,Oscillospiraceae bacterium Marseille-Q3528
+2830657,0.0147,species,Clostridiaceae bacterium Marseille-Q4143
+2830659,0.43153,species,Clostridiaceae bacterium Marseille-Q4149
+2841509,0.09685,species,Butyricicoccus intestinisimiae
+2841519,0.25003,species,Eubacterium sp. MSJ-21
+2841521,0.0349,species,Anaerotignum sp. MSJ-24
+2841526,0.10064,species,Oscillibacter sp. MSJ-31
+2881276,0.00548,species,Fusicatenibacter faecihominis
+2883295,0.05048,species,bacterium 210917-DFI.7.65
+2885348,0.0047,species,Hominifimenecus microfluidus
+2885357,0.01278,species,Hominenteromicrobium mulieris
+2897708,0.01387,species,Mediterraneibacter sp. NSJ-151
+2929491,0.21088,species,Faecalibacterium wellingii
+2981769,0.07896,species,Waltera acetigignens

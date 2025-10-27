@@ -1,0 +1,146 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,59.92529,species,unclassified
+562,0.01423,species,Escherichia coli
+818,0.15779,species,Bacteroides thetaiotaomicron
+820,0.57895,species,Bacteroides uniformis
+821,0.07992,species,Phocaeicola vulgatus
+823,0.58979,species,Parabacteroides distasonis
+853,2.56604,species,Faecalibacterium prausnitzii
+1535,0.00149,species,[Clostridium] leptum
+1680,0.64289,species,Bifidobacterium adolescentis
+28052,0.00322,species,Lachnospira pectinoschiza
+28111,0.10678,species,Bacteroides eggerthii
+28117,1.18462,species,Alistipes putredinis
+28118,0.0595,species,Odoribacter splanchnicus
+33043,0.02109,species,Coprococcus eutactus
+35833,0.63031,species,Bilophila wadsworthia
+39485,0.02109,species,Lachnospira eligens
+39488,0.0025,species,Anaerobutyricum hallii
+39490,0.00193,species,Eubacterium ramulus
+39491,0.12494,species,Agathobacter rectalis
+39492,0.06072,species,[Eubacterium] siraeum
+40518,0.08281,species,Ruminococcus bromii
+40545,1.3977,species,Sutterella wadsworthensis
+43675,0.0014,species,Rothia mucilaginosa
+45851,0.00151,species,Eshraghiella crossota
+46228,0.13541,species,[Ruminococcus] lactaris
+46503,0.2937,species,Parabacteroides merdae
+46506,0.01892,species,Bacteroides stercoris
+47678,0.01958,species,Bacteroides caccae
+74426,0.07818,species,Collinsella aerofaciens
+88431,0.05685,species,Dorea longicatena
+89014,0.00048,species,Blautia luti
+116085,0.00389,species,Coprococcus catus
+165179,6.56772,species,Segatella copri
+166486,0.00735,species,Roseburia intestinalis
+172901,0.0245,species,Victivallis vadensis
+204516,0.11202,species,Phocaeicola massiliensis
+209880,0.0349,species,Allisonella histaminiformans
+216816,0.01588,species,Bifidobacterium longum
+225992,0.03623,species,Comamonas kerstersii
+239935,0.32817,species,Akkermansia muciniphila
+253257,0.05968,species,Lacrimispora amygdalina
+290055,0.00877,species,Faecalicatena fissicatena
+291645,0.00116,species,Bacteroides nordii
+292800,0.00014,species,Flavonifractor plautii
+301301,0.06639,species,Roseburia hominis
+301302,0.13062,species,Roseburia faecis
+328813,0.60435,species,Alistipes onderdonkii
+328814,0.65454,species,Alistipes shahii
+338188,0.02028,species,Bacteroides finegoldii
+351091,1.05202,species,Oscillibacter valericigenes
+357276,0.03236,species,Phocaeicola dorei
+358743,0.00096,species,Enterocloster citroniae
+360807,0.03794,species,Roseburia inulinivorans
+363265,4.12552,species,Leyella stercorea
+371601,0.01136,species,Bacteroides xylanisolvens
+410072,0.05343,species,Coprococcus comes
+418240,0.00603,species,Blautia wexlerae
+454154,1.30243,species,Paraprevotella clara
+471189,0.01181,species,Gordonibacter pamelaeae
+474960,0.00213,species,Hydrogenoanaerobacterium saccharovorans
+487174,0.33765,species,Barnesiella intestinihominis
+487175,0.02625,species,Parasutterella excrementihominis
+592978,0.00631,species,Mediterraneibacter faecis
+626929,0.24228,species,Bacteroides clarus
+626932,0.50559,species,Alistipes indistinctus
+626934,0.0024,species,Slackia piriformis
+626940,1.08298,species,Phascolarctobacterium succinatutens
+649756,0.01302,species,Anaerostipes hadrus
+745368,0.02495,species,Gemmiger formicilis
+871665,0.00296,species,Blautia faecis
+944036,0.93257,species,Blastocystis sp. subtype 1
+1150298,0.12021,species,Fusicatenibacter saccharivorans
+1160721,0.08641,species,Ruminococcus bicirculans (ex Wegman et al. 2014)
+1288121,0.20834,species,Alistipes senegalensis
+1297617,0.02013,species,Intestinimonas butyriciproducens
+1468449,0.00324,species,Holdemania massiliensis
+1501392,0.00328,species,Coprobacter secundus
+1519439,3.66154,species,Oscillibacter sp. ER4
+1550024,0.0283,species,Ruthenibacterium lactatiformans
+1628085,0.19673,species,Agathobaculum butyriciproducens
+1673721,0.00522,species,Intestinimonas massiliensis (ex Afouda et al. 2020)
+1702285,0.01021,species,Intestinimonas gabonensis
+1715004,0.00711,species,Clostridiales bacterium KLE1615
+1720200,0.00399,species,Anaerotruncus rubiinfantis
+1737424,0.03259,species,Blautia massiliensis (ex Durand et al. 2017)
+1841864,0.5821,species,Marseilla massiliensis
+1855299,0.00911,species,Oscillibacter sp. PC13
+1898203,0.05322,species,Lachnospiraceae bacterium
+1898204,0.01338,species,Clostridiaceae bacterium
+1898207,0.00198,species,Clostridiales bacterium
+2093856,0.04924,species,Butyricimonas faecalis
+2093857,0.07014,species,Dysosmobacter welbionis
+2126740,0.00548,species,Clostridium fessum
+2292182,0.03029,species,Clostridiaceae bacterium AF18-31LB
+2292190,0.85449,species,Alistipes sp. AF17-16
+2292201,0.00368,species,Clostridium sp. AF12-28
+2292205,0.03192,species,Clostridium sp. AF20-17LB
+2292206,0.01146,species,Clostridium sp. AF27-2AA
+2292271,0.00499,species,Lachnospiraceae bacterium AM48-27BH
+2292272,0.04417,species,Lachnospiraceae bacterium OM04-12BH
+2292287,0.00226,species,Blautia sp. OF03-15BH
+2292304,0.02117,species,Clostridium sp. AM33-3
+2292441,0.03669,species,Paratractidigestivibacter faecalis
+2293024,0.00238,species,Clostridium sp. AM22-11AC
+2293138,0.05181,species,Roseburia sp. AM59-24XD
+2358141,0.1274,species,Anaerotignum faecicola
+2485925,0.6577,species,Oscillospiraceae bacterium
+2500537,0.57947,species,Candidatus Cibiobacter qucibialis
+2585118,0.54969,species,Alistipes communis
+2592640,0.01248,species,Blautia sp. MCC283
+2606640,0.4223,species,Victivallis lenta
+2714355,0.16674,species,Vescimonas coprocola
+2763016,0.00012,species,Anaerofilum hominis
+2763017,0.00096,species,Anaerosacchariphilus hominis
+2763037,0.03274,species,Clostridium lentum
+2763053,0.00083,species,Lawsonibacter hominis
+2763056,0.03208,species,Oscillibacter hominis
+2763061,0.01121,species,Roseburia lenta
+2763654,6e-05,species,Luoshenia tenuis
+2763655,0.0002,species,Gehongia tenuis
+2763656,0.00091,species,Guopingia tenuis
+2763658,0.00063,species,Ligaoa zhengdingensis
+2763662,0.00542,species,Yeguia hominis
+2763664,0.00052,species,Jutongia hominis
+2763670,0.11189,species,Wujia chipingensis
+2763672,1.63171,species,Simiaoa sunii
+2763678,0.00348,species,Youxingia wuxianensis
+2764712,0.00789,species,Lentihominibacter faecis
+2830655,0.00485,species,Oscillospiraceae bacterium Marseille-Q3528
+2830657,0.04106,species,Clostridiaceae bacterium Marseille-Q4143
+2830658,0.0036,species,Clostridiaceae bacterium Marseille-Q4145
+2830659,0.05967,species,Clostridiaceae bacterium Marseille-Q4149
+2841521,0.00167,species,Anaerotignum sp. MSJ-24
+2841526,1.38733,species,Oscillibacter sp. MSJ-31
+2841532,0.00119,species,Intestinimonas sp. MSJ-38
+2850323,0.01395,species,Diplocloster agilis
+2881266,0.16455,species,Faecalibacterium butyricigenerans
+2881276,0.0121,species,Fusicatenibacter faecihominis
+2883268,0.06002,species,Colidextribacter sp. 210702-DFI.3.9
+2883295,0.02213,species,bacterium 210917-DFI.7.65
+2885348,0.0001,species,Hominifimenecus microfluidus
+2885350,0.01542,species,Gallintestinimicrobium propionicum
+2885357,0.01588,species,Hominenteromicrobium mulieris
+2929491,0.19469,species,Faecalibacterium wellingii
+2981769,0.02894,species,Waltera acetigignens

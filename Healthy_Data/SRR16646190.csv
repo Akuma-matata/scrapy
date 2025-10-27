@@ -1,0 +1,90 @@
+ncbi_taxon_id,relative_abundance,taxon_rank_level,scientific_name
+-1,1.43914,species,unclassified
+562,0.02697,species,Escherichia coli
+820,0.00077,species,Bacteroides uniformis
+821,0.00585,species,Phocaeicola vulgatus
+853,0.8322,species,Faecalibacterium prausnitzii
+1304,0.56645,species,Streptococcus salivarius
+1305,0.00399,species,Streptococcus sanguinis
+1318,0.07702,species,Streptococcus parasanguinis
+1322,0.36528,species,Blautia hansenii
+1328,0.0059,species,Streptococcus anginosus
+1343,0.01173,species,Streptococcus vestibularis
+1522,0.04074,species,[Clostridium] innocuum
+1655,0.00724,species,Actinomyces naeslundii
+1680,0.15688,species,Bifidobacterium adolescentis
+1689,0.07361,species,Bifidobacterium dentium
+28026,26.43809,species,Bifidobacterium pseudocatenulatum
+28037,0.00433,species,Streptococcus mitis
+28052,0.04746,species,Lachnospira pectinoschiza
+33025,0.03002,species,Phascolarctobacterium faecium
+33035,0.00287,species,Blautia producta
+33038,0.59962,species,Mediterraneibacter gnavus
+33039,1.50475,species,[Ruminococcus] torques
+39486,0.79355,species,Dorea formicigenerans
+39488,0.30321,species,Anaerobutyricum hallii
+39490,1.23515,species,Eubacterium ramulus
+39491,0.82419,species,Agathobacter rectalis
+39496,0.6621,species,Eubacterium ventriosum
+40520,3.28035,species,Blautia obeum
+45634,0.00865,species,Streptococcus cristatus
+46125,0.00207,species,Abiotrophia defectiva
+61592,0.00353,species,Corynebacterium durum
+74426,0.54752,species,Collinsella aerofaciens
+76124,0.0036,species,[Eubacterium] minutum
+84112,0.60815,species,Eggerthella lenta
+84135,0.00945,species,Gemella sanguinis
+88431,1.70835,species,Dorea longicatena
+100884,0.00046,species,Coprobacillus cateniformis
+105843,0.29114,species,Anaerobutyricum soehngenii
+113107,0.08575,species,Streptococcus australis
+114527,0.02539,species,Mogibacterium diversum
+143393,0.00018,species,[Eubacterium] sulci
+181487,0.00566,species,Schaalia cardiffensis
+209880,0.12324,species,Allisonella histaminiformans
+216816,18.43225,species,Bifidobacterium longum
+242230,0.02275,species,Eggerthella sinensis
+261299,0.02101,species,Intestinibacter bartlettii
+292800,0.01195,species,Flavonifractor plautii
+301301,0.00647,species,Roseburia hominis
+301302,1.81201,species,Roseburia faecis
+360807,0.04101,species,Roseburia inulinivorans
+410072,1.03108,species,Coprococcus comes
+418240,6.36191,species,Blautia wexlerae
+437897,1.8413,species,Megamonas funiformis
+498718,0.03008,species,Slackia equolifaciens
+536633,0.07208,species,Blautia glucerasea
+544580,0.00598,species,Actinomyces oris
+544581,0.00045,species,Actinomyces johnsonii
+592978,6.61793,species,Mediterraneibacter faecis
+649756,1.5523,species,Anaerostipes hadrus
+712888,0.00212,species,Actinobaculum sp. oral taxon 183
+871665,0.89731,species,Blautia faecis
+1150298,7.67198,species,Fusicatenibacter saccharivorans
+1160721,0.07132,species,Ruminococcus bicirculans (ex Wegman et al. 2014)
+1547448,0.00071,species,Arachnia rubra
+1550024,0.1809,species,Ruthenibacterium lactatiformans
+1628085,1.22407,species,Agathobaculum butyriciproducens
+1715004,0.1859,species,Clostridiales bacterium KLE1615
+1737424,2.6089,species,Blautia massiliensis (ex Durand et al. 2017)
+1776391,0.16457,species,Romboutsia timonensis
+1898203,0.083,species,Lachnospiraceae bacterium
+1898204,0.59816,species,Clostridiaceae bacterium
+1982626,0.9926,species,Faecalibacillus intestinalis
+2049045,1.99522,species,Eubacteriaceae bacterium
+2126740,0.17845,species,Clostridium fessum
+2211183,0.0173,species,Evtepia gabavorous
+2292041,0.192,species,Dorea sp. AF36-15AT
+2292245,0.8763,species,Ruminococcus sp. AF13-28
+2292358,0.22363,species,Megasphaera sp. AM44-1BH
+2293107,0.00145,species,Eubacterium sp. AF34-35BH
+2293831,0.0027,species,Lachnospiraceae bacterium OF09-6
+2316025,0.0279,species,Mediterraneibacter butyricigenes
+2358141,0.01337,species,Anaerotignum faecicola
+2500537,0.2194,species,Candidatus Cibiobacter qucibialis
+2714355,0.31527,species,Vescimonas coprocola
+2763061,0.13008,species,Roseburia lenta
+2763645,0.00254,species,Lentihominibacter hominis
+2763671,0.03925,species,Jingyaoa shaoxingensis
+2881276,0.30369,species,Fusicatenibacter faecihominis
+2885350,0.15676,species,Gallintestinimicrobium propionicum
